@@ -35,6 +35,8 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 <img height="40" src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png">
 &nbsp;
+<img height="40" src="https://cncf-branding.netlify.app/img/projects/fluentd/icon/color/fluentd-icon-color.png">
+&nbsp;
 <img height="40" src="https://cncf-branding.netlify.app/img/projects/opa/icon/color/opa-icon-color.png">
 &nbsp;
 <img height="40" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png">
