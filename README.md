@@ -1,28 +1,21 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/lakshitha1629">
-  <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/lakshitha1629/">
+<a href="https://www.linkedin.com/in/udaara/">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://medium.com/@lakshitha1629">
+<a href="https://medium.com/@udaara">
   <img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="https://github.com/lakshitha1629">
-  <img align="left" src="https://komarev.com/ghpvc/?username=lakshitha1629" alt="page views" />
-</a>
-<a href="https://github.com/lakshitha1629?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/lakshitha1629?color=green&logo=github">
+<a href="https://https://stackoverflow.com/users/6236161/sauj">
+  <img align="left" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
 </a>
 <br />
 <br />
 
 ## 👨‍💻 About Me:
 
-hi, i'm [Lakshitha Perera](https://lakshitha1629.github.io), a passionate self-taught Full-Stack Developer, Machine Learning Engineer and Software engineer from Sri Lanka.
+I'm [Udaara Jayawardana](https://udaara.github.io), a Site Reliability Engineer from Sri Lanka :flag_for_Sri_Lanka:. I've specialized in Cloud and Containerized infrastructure design and implementation. Experienced with DevOps and SRE domains. Well-versed in numerous cloud technologies, including AWS, Kubernetes, IaC and Cloud Governance.
 
-I’m a passionate individual and a technophiles obsessed with the latest technologies. I‘ve always been a great problem solver and creative. I prefer to find new solutions using the latest approaches and systems. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
