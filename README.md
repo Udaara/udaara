@@ -23,7 +23,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <p>
 <img height="30" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90">
 &nbsp;
-<img height="30" src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=F11">
+<img height="30" src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=4169e1">
 &nbsp;
 &nbsp;
 &nbsp;
