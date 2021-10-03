@@ -31,11 +31,11 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 <img height="25" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
 &nbsp;
-<img height="40" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png">
+<img height="25" src="https://img.shields.io/badge/-Helm-000?&logo=helm&logoColor=007FFF">
 &nbsp;
-<img height="40" src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png">
+<img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=prometheus">
 &nbsp;
-<img height="40" src="https://cncf-branding.netlify.app/img/projects/fluentd/icon/color/fluentd-icon-color.png">
+<img height="25" src="https://img.shields.io/badge/-Fluentd-000?&logo=fluentd">
 &nbsp;
 <img height="40" src="https://cncf-branding.netlify.app/img/projects/opa/icon/color/opa-icon-color.png">
 &nbsp;
