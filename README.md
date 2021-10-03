@@ -21,7 +21,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 ## 💻 Technologies
 
 <p>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+<img height="40" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg">
 &nbsp;
 <img height="40" src="https://www.ecocloudservices.com/wp-content/uploads/2020/03/Azure.png">
 &nbsp;
