@@ -6,7 +6,7 @@
 <a href="https://medium.com/@udaara">
   <img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="https://https://stackoverflow.com/users/6236161/sauj">
+<a href="https://stackoverflow.com/users/6236161/sauj">
   <img align="left" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
 </a>
 <br />
@@ -91,9 +91,9 @@ JSON           9 mins   █░░░░░░░░░░░░░░░░░�
 ### 📈 my github stats:
 
 <p  align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshitha1629&show_icons=true&theme=gotham" alt="lakshitha1629" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udaara&show_icons=true&theme=gotham" alt="lakshitha1629" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitha1629&layout=compact&theme=gotham" alt="lakshitha1629" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaara&layout=compact&theme=gotham" alt="lakshitha1629" />
 <p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
