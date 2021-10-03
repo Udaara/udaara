@@ -54,40 +54,6 @@ I’m always interested in hearing from former colleagues, future employers & fe
 </p>
 <hr>
 
-## ⏳ this week i spent my time on:
-
-<!--START_SECTION:waka-->
-
-```text
-Angular 2 hrs 13 mins   ██████████████▒░░░░░░░░░░   57.17 %
-.NET     1 hr 21 mins   ████████▓░░░░░░░░░░░░░░░░   34.77 %
-Flask          9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-JSON           9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-```
-
-<!--END_SECTION:waka-->
-
-### 🚧 my todoist stats:
-
-<!-- TODO-IST:START -->
-
-🏆 Learn new thing  
-🌸 Completed 0 tasks today  
-✅ Completed 663 tasks so far  
-⏳ Longest streak is 10 days
-
-<!-- TODO-IST:END -->
-<hr>
-
-### ✍🏻 My Latest Blog posts:
-
-<!-- BLOG-POST-LIST:START -->
-
-- [How to create a reusable confirmation Modal component in Angular](https://lakshitha1629.medium.com/how-to-create-a-reusable-confirmation-modal-component-in-angular-a199fbc9cd05)
-- [How to create HTTP Error Response Handling component in Angular](https://lakshitha1629.medium.com/how-to-create-http-error-response-handling-component-in-angular-7b03b3de0dd9)
-<!-- BLOG-POST-LIST:END -->
-<hr>
-
 ### 📈 my github stats:
 
 <p  align="center"> 
