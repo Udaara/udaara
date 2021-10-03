@@ -43,9 +43,9 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="40" src="https://www.jenkins.io/images/logos/jenkins/256.png">
+<img height="25" src="https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins">
 &nbsp;
-<img height="40" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png">
+<img height="40" src="https://img.shields.io/badge/-GitLab-000?&logo=Gitlab">
 &nbsp;
 &nbsp;
 &nbsp;
