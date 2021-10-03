@@ -21,15 +21,15 @@ I’m always interested in hearing from former colleagues, future employers & fe
 ## 💻 Technologies
 
 <p>
-<img height="30" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90">
+<img height="20" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90">
 &nbsp;
-<img height="30" src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=007FFF">
+<img height="20" src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=007FFF">
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="30" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
+<img height="20" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
 &nbsp;
-<img height="30" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
+<img height="20" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
 &nbsp;
 <img height="40" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png">
 &nbsp;
@@ -55,8 +55,8 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="30" src="https://img.shields.io/badge/-Python-000?&logo=Python">
-<img height="40" src="https://img.shields.io/badge/-Go-000?&logo=Go">
+<img height="20" src="https://img.shields.io/badge/-Python-000?&logo=Python">
+<img height="20" src="https://img.shields.io/badge/-Go-000?&logo=Go">
 </p>
 <hr>
 
