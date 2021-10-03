@@ -61,8 +61,8 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <hr>
 
 
-<img height="137px" align="left" src="https://github-readme-stats.vercel.app/api?username=udaara&hide=html&layout=compact&theme=gotham"/>
-<img height="137px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaara&hide=html&layout=compact&theme=gotham"/>
+<img height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=udaara&hide=html&layout=compact&theme=gotham"/>
+<img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaara&hide=html&layout=compact&theme=gotham"/>
 
 
 [medium]: https://udaara.medium.com/
