@@ -23,7 +23,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <p>
 <img height="40" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg">
 &nbsp;
-<img height="40" src="https://www.ecocloudservices.com/wp-content/uploads/2020/03/Azure.png">
+<img height="40" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/azure.svg">
 &nbsp;
 &nbsp;
 &nbsp;
