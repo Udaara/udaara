@@ -37,13 +37,13 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 <img height="25" src="https://img.shields.io/badge/-Fluentd-000?&logo=fluentd">
 &nbsp;
-<img height="40" src="https://cncf-branding.netlify.app/img/projects/opa/icon/color/opa-icon-color.png">
+<img height="25" src="https://img.shields.io/badge/-OPA-000?&logo=opa">
 &nbsp;
-<img height="40" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png">
+<img height="25" src="https://img.shields.io/badge/-Argo-000?&logo=argo">
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="25" src="https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins">
+<img height="25" src="https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=FFFFFF">
 &nbsp;
 <img height="25" src="https://img.shields.io/badge/-GitLab-000?&logo=Gitlab">
 &nbsp;
