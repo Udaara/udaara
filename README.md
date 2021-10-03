@@ -43,7 +43,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="40" src="https://user-images.githubusercontent.com/12626009/135741890-e1ff2e0a-eca0-42f2-9f48-8b351b7d9146.png">
+<img height="40" src="https://www.jenkins.io/images/logos/jenkins/256.png">
 &nbsp;
 <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png">
 &nbsp;
