@@ -64,8 +64,8 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <center>
   <table>
     <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=udaara&hide=html&layout=compact&theme=gotham"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=udaara&hide=html&layout=compact&theme=gotham" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.udaara.vercel.app/api?username=udaara&hide=html&layout=compact&theme=gotham"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.udaara.vercel.app/api/top-langs/?username=udaara&hide=html&layout=compact&theme=gotham" /></td>
     </tr>   
   </table>
 </center>
