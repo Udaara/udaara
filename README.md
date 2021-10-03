@@ -49,7 +49,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="40" src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4">
+<img height="40" src="https://img.shields.io/badge/-RedHat-000?&logo=Redhat&logoColor=FFFFFF">
 &nbsp;
 <img height="40" src="https://www.shareicon.net/data/2015/09/16/101872_debian_512x512.png">
 &nbsp;
