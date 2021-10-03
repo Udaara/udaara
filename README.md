@@ -31,8 +31,8 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <img height="25" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
 <img height="25" src="https://img.shields.io/badge/-Helm-000?&logo=helm&logoColor=007FFF">
 <img height="25" src="https://img.shields.io/badge/-Fluentd-000?&logo=fluentd">
-<img height="25" src="https://img.shields.io/badge/-OPA-000?&logo=opa">
-<img height="25" src="https://img.shields.io/badge/-Argo-000?&logo=argo">
+<img height="25" src="https://img.shields.io/badge/-OPA-000?&logo=OPA">
+<img height="25" src="https://img.shields.io/badge/-Argo-000?&logo=Argo">
 <img height="25" src="https://img.shields.io/badge/-Rancher-000?&logo=rancher&logoColor=007FFF">
 &nbsp;
 &nbsp;
