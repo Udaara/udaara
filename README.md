@@ -8,7 +8,7 @@
 
 ## 💬 About
 
-I'm Udaara Jayawardana, a Site Reliability Engineer from Sri Lanka 🇱🇰. 
+I'm Udaara Jayawardana, a Site Reliability Engineer. 
 
 I've specialized in Cloud and Containerized infrastructure design and implementation. Experienced with DevOps and SRE domains and well-versed in numerous cloud technologies, including AWS, Kubernetes, IaC & Cloud Governance.
 
