@@ -25,33 +25,21 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <img height="25" src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=007FFF">
 &nbsp;
 &nbsp;
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Helm-000?&logo=helm&logoColor=007FFF">
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=prometheus">
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Fluentd-000?&logo=fluentd">
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-OPA-000?&logo=opa">
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Argo-000?&logo=argo">
 &nbsp;
 &nbsp;
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=FFFFFF">
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-GitLab-000?&logo=Gitlab">
 &nbsp;
 &nbsp;
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-RedHat-000?&logo=Redhat&logoColor=CC0000">
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Debian-000?&logo=Debian&logoColor=660000">
-&nbsp;
 &nbsp;
 &nbsp;
 <img height="25" src="https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FEE907">
