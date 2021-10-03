@@ -56,7 +56,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 
 <!--Start_SECTION:waka-->
 <p  align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=udaara&show_icons=true&theme=gotham" alt="udaara" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udaara&show_icons=false&theme=gotham" alt="udaara" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaara&layout=compact&theme=gotham" alt="udaara" />
 <p>
