@@ -1,14 +1,8 @@
 ### Hi there, Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/udaara/">
-  <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://medium.com/@udaara">
-  <img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="https://stackoverflow.com/users/6236161/sauj">
-  <img align="left" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
-</a>
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
 <br />
 <br />
 
@@ -54,10 +48,17 @@ I’m always interested in hearing from former colleagues, future employers & fe
 </p>
 <hr>
 
-<!---
-<p  align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=udaara&show_icons=false&theme=gotham" alt="udaara" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaara&layout=compact&theme=gotham" alt="udaara" />
-<p>
--->
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=ereshzealous&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&hide=html&layout=compact&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>
+
+
+[medium]: https://udaara.medium.com/
+[linkedin]: https://www.linkedin.com/in/udaara/
+[stackoverflow]: https://stackoverflow.com/users/6236161/sauj
