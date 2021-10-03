@@ -21,9 +21,9 @@ I’m always interested in hearing from former colleagues, future employers & fe
 ## 💻 Technologies
 
 <p>
-<img height="30" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS">
+<img height="30" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90">
 &nbsp;
-<img height="30" src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure">
+<img height="30" src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=007FFF">
 &nbsp;
 &nbsp;
 &nbsp;
