@@ -35,7 +35,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 <img height="40" src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4">
 &nbsp;
-<img height="40" src="https://banner2.cleanpng.com/20180125/vke/kisspng-debian-operating-system-linux-distribution-install-red-tornado-5a69769a7331b8.9461698015168610824718.jpg">
+<img height="40" src="https://www.shareicon.net/data/2015/09/16/101872_debian_512x512.png">
 &nbsp;
 &nbsp;
 &nbsp;
