@@ -51,7 +51,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 <img height="25" src="https://img.shields.io/badge/-RedHat-000?&logo=Redhat&logoColor=CC0000">
 &nbsp;
-<img height="40" src="https://www.shareicon.net/data/2015/09/16/101872_debian_512x512.png">
+<img height="25" src="https://img.shields.io/badge/-Debian-000?&logo=Debian&logoColor=660000">
 &nbsp;
 &nbsp;
 &nbsp;
