@@ -21,9 +21,9 @@ I’m always interested in hearing from former colleagues, future employers & fe
 ## 💻 Technologies
 
 <p>
-<img height="40" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg">
+<img height="30" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90">
 &nbsp;
-<img height="40" src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow">
+<img height="30" src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow">
 &nbsp;
 &nbsp;
 &nbsp;
