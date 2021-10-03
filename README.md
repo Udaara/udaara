@@ -36,7 +36,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <img height="25" src="https://img.shields.io/badge/-GitLab-000?&logo=Gitlab">
 <img height="25" src="https://img.shields.io/badge/-SonarQube-000?&logo=sonarqube">
 <img height="25" src="https://img.shields.io/badge/-NewRelic-000?&logo=newrelic&logoColor=A2C4C9">
-<img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=dynatrace">
+<img height="25" src="https://img.shields.io/badge/-Dynatrace-000?&logo=dynatrace">
 <img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=prometheus">
 <img height="25" src="https://img.shields.io/badge/-Grafana-000?&logo=grafana">
 <img height="25" src="https://img.shields.io/badge/-RedHat-000?&logo=Redhat&logoColor=CC0000">
