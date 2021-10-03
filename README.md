@@ -14,15 +14,14 @@
 
 ## 👨‍💻 About Me:
 
-I'm [Udaara Jayawardana](https://udaara.github.io), a Site Reliability Engineer from Sri Lanka :flag_for_Sri_Lanka:. I've specialized in Cloud and Containerized infrastructure design and implementation. Experienced with DevOps and SRE domains. Well-versed in numerous cloud technologies, including AWS, Kubernetes, IaC and Cloud Governance.
+I'm [Udaara Jayawardana](https://udaara.github.io), a Site Reliability Engineer from Sri Lanka 🇱🇰. 
 
+I've specialized in Cloud and Containerized infrastructure design and implementation. Experienced with DevOps and SRE domains and well-versed in numerous cloud technologies, including AWS, Kubernetes, IaC & Cloud Governance.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am an open-source enthusiast and maintainer. I've been part of various FOSS communities since my undergrad years and learned a lot from them. I love the core values of collaboration and knowledge-sharing of the open-source culture and frequently contribute to many open-source projects as I can.
 
-  <img align="right" alt="GIF" src="https://github.com/lakshitha1629/lakshitha1629/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any help? do reach, [email](mailto:kavindra1629@gmail.com) 😊
-- 💬 ask me about anything, i am happy to help;
+I’m always interested in hearing from former colleagues, future employers & fellow engineers, so feel free to contact me.
+
 <hr>
 
 ## 🛠️ languages and tools:
