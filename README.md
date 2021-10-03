@@ -54,10 +54,10 @@ I’m always interested in hearing from former colleagues, future employers & fe
 </p>
 <hr>
 
-### 📈 my github stats:
-
+<!--Start_SECTION:waka-->
 <p  align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=udaara&show_icons=true&theme=gotham" alt="udaara" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaara&layout=compact&theme=gotham" alt="udaara" />
 <p>
+<!--END_SECTION:waka-->
