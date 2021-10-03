@@ -57,8 +57,6 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
-  
-<img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-logstash-logo-png-transparent.pngg">
 </p>
 <hr>
 
