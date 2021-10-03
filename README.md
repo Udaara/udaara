@@ -43,7 +43,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="40" src="https://hosting.olavz.com/discordbot/jenkins.png">
+<img height="40" src="https://i.dlpng.com/static/png/6378730_preview.png">
 &nbsp;
 <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png">
 &nbsp;
