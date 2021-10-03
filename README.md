@@ -27,9 +27,9 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img height="40" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
 &nbsp;
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">
+<img height="40" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
 &nbsp;
 <img height="40" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png">
 &nbsp;
