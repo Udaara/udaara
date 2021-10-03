@@ -31,6 +31,14 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">
 &nbsp;
+<img height="40" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png">
+&nbsp;
+<img height="40" src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png">
+&nbsp;
+<img height="40" src="https://cncf-branding.netlify.app/img/projects/opa/icon/color/opa-icon-color.png">
+&nbsp;
+<img height="40" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png">
+&nbsp;
 &nbsp;
 &nbsp;
 <img height="40" src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4">
