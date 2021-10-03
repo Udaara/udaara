@@ -35,7 +35,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 &nbsp;
-<img height="40" src="https://banner2.cleanpng.com/20180731/tzw/kisspng-gopher-docker-computer-programming-clojure-5b60bcbbaea281.7058312815330664277153.jpgU">
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
 </p>
 <hr>
 
