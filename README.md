@@ -25,8 +25,6 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <img height="25" src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=007FFF">
 <img height="25" src="https://img.shields.io/badge/-Terraform-000?&logo=terraform&logoColor=674EA7">
 <img height="25" src="https://img.shields.io/badge/-Ansible-000?&logo=ansible">
-&nbsp;
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
 <img height="25" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
 <img height="25" src="https://img.shields.io/badge/-Helm-000?&logo=helm&logoColor=007FFF">
@@ -34,23 +32,15 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <img height="25" src="https://img.shields.io/badge/-OPA-000?&logo=OPA">
 <img height="25" src="https://img.shields.io/badge/-Argo-000?&logo=Argo">
 <img height="25" src="https://img.shields.io/badge/-Rancher-000?&logo=rancher&logoColor=007FFF">
-&nbsp;
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins">
 <img height="25" src="https://img.shields.io/badge/-GitLab-000?&logo=Gitlab">
 <img height="25" src="https://img.shields.io/badge/-SonarQube-000?&logo=sonarqube">
-&nbsp;
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-NewRelic-000?&logo=newrelic&logoColor=A2C4C9">
 <img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=dynatrace">
 <img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=prometheus">
 <img height="25" src="https://img.shields.io/badge/-Grafana-000?&logo=grafana">
-&nbsp;
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-RedHat-000?&logo=Redhat&logoColor=CC0000">
 <img height="25" src="https://img.shields.io/badge/-Debian-000?&logo=Debian&logoColor=660000">
-&nbsp;
-&nbsp;
 <img height="25" src="https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FEE907">
 <img height="25" src="https://img.shields.io/badge/-Go-000?&logo=Go">
 </p>
