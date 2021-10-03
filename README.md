@@ -36,12 +36,12 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <img height="25" src="https://img.shields.io/badge/-Rancher-000?&logo=rancher&logoColor=007FFF">
 &nbsp;
 &nbsp;
-<img height="25" src="https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=FFFFFF">
+<img height="25" src="https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins">
 <img height="25" src="https://img.shields.io/badge/-GitLab-000?&logo=Gitlab">
 <img height="25" src="https://img.shields.io/badge/-SonarQube-000?&logo=sonarqube">
 &nbsp;
 &nbsp;
-<img height="25" src="https://img.shields.io/badge/-NewRelic-000?&logo=newrelic&logoColor=FFFFFF">
+<img height="25" src="https://img.shields.io/badge/-NewRelic-000?&logo=newrelic&logoColor=A2C4C9">
 <img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=dynatrace">
 <img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=prometheus">
 <img height="25" src="https://img.shields.io/badge/-Grafana-000?&logo=grafana">
