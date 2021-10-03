@@ -6,7 +6,7 @@
 <br />
 <br />
 
-## 👨‍💻 About
+## 🙋🏻‍♂️ About
 
 I'm Udaara Jayawardana, a Site Reliability Engineer from Sri Lanka 🇱🇰. 
 
@@ -18,7 +18,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 
 <hr>
 
-## 🛠️ Technologies
+## 💻 Technologies
 
 <p>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
