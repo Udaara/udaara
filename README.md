@@ -55,7 +55,7 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="25" src="https://img.shields.io/badge/-Python-000?&logo=Python">
+<img height="25" src="https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=FEE907">
 <img height="25" src="https://img.shields.io/badge/-Go-000?&logo=Go">
 </p>
 <hr>
