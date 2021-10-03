@@ -27,9 +27,9 @@ I’m always interested in hearing from former colleagues, future employers & fe
 &nbsp;
 &nbsp;
 &nbsp;
-<img height="40" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
+<img height="30" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
 &nbsp;
-<img height="40" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
+<img height="30" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
 &nbsp;
 <img height="40" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png">
 &nbsp;
