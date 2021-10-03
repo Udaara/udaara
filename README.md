@@ -12,7 +12,7 @@ I'm Udaara Jayawardana, a Site Reliability Engineer from Sri Lanka 🇱🇰.
 
 I've specialized in Cloud and Containerized infrastructure design and implementation. Experienced with DevOps and SRE domains and well-versed in numerous cloud technologies, including AWS, Kubernetes, IaC & Cloud Governance.
 
-I am an open-source enthusiast and maintainer. I've been part of various FOSS communities since my undergrad years and learned a lot from them. I love the core values of collaboration and knowledge-sharing of the open-source culture and frequently contribute to many open-source projects as I can.
+I am an open-source enthusiast and maintainer. I've been part of various FOSS communities and learned a lot from them. I love the core values of collaboration and knowledge-sharing of the open-source culture and frequently contribute to many open-source projects as I can.
 
 I’m always interested in hearing from former colleagues, future employers & fellow engineers, so feel free to contact me.
 
@@ -23,19 +23,28 @@ I’m always interested in hearing from former colleagues, future employers & fe
 <p>
 <img height="25" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90">
 <img height="25" src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=007FFF">
+<img height="25" src="https://img.shields.io/badge/-Terraform-000?&logo=terraform&logoColor=674EA7">
+<img height="25" src="https://img.shields.io/badge/-Ansible-000?&logo=ansible">
 &nbsp;
 &nbsp;
 <img height="25" src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
 <img height="25" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes">
 <img height="25" src="https://img.shields.io/badge/-Helm-000?&logo=helm&logoColor=007FFF">
-<img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=prometheus">
 <img height="25" src="https://img.shields.io/badge/-Fluentd-000?&logo=fluentd">
 <img height="25" src="https://img.shields.io/badge/-OPA-000?&logo=opa">
 <img height="25" src="https://img.shields.io/badge/-Argo-000?&logo=argo">
+<img height="25" src="https://img.shields.io/badge/-Rancher-000?&logo=rancher&logoColor=007FFF">
 &nbsp;
 &nbsp;
 <img height="25" src="https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=FFFFFF">
 <img height="25" src="https://img.shields.io/badge/-GitLab-000?&logo=Gitlab">
+<img height="25" src="https://img.shields.io/badge/-SonarQube-000?&logo=sonarqube">
+&nbsp;
+&nbsp;
+<img height="25" src="https://img.shields.io/badge/-NewRelic-000?&logo=newrelic&logoColor=FFFFFF">
+<img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=dynatrace">
+<img height="25" src="https://img.shields.io/badge/-Prometheus-000?&logo=prometheus">
+<img height="25" src="https://img.shields.io/badge/-Grafana-000?&logo=grafana">
 &nbsp;
 &nbsp;
 <img height="25" src="https://img.shields.io/badge/-RedHat-000?&logo=Redhat&logoColor=CC0000">
